@@ -1,0 +1,40 @@
+{
+    "Case Status": {
+        "First Hearing Date": "07th February 2025",
+        "Next Hearing Date": "03rd May 2025",
+        "Case Stage": "URGENT HEARING",
+        "Court Number and Judge": "1-ADDL.DISTRICT & SESSIONS JUDGE"
+    },
+    "Petitioner and Advocate": "1) RAMJIBHAI HIRABHAI DULERA\n   Advocate- R B SONI",
+    "Respondent and Advocate": "1) BHAVESHBHAI MAHENDRABHAI\n2) NILESHBHAI MAHENDRABHAI",
+    "Acts": {
+        "Under Act(s)": "LIMITATION ACT, 1963",
+        "Under Section(s)": "5,"
+    },
+    "Case History": [
+        {
+            "Judge": "ADDL.DISTRICT &amp; SESSIONS JUDGE",
+            "Business on Date": "07-02-2025",
+            "Hearing Date": "25-02-2025",
+            "Purpose of Hearing": "URGENT HEARING"
+        },
+        {
+            "Judge": "ADDL.DISTRICT &amp; SESSIONS JUDGE",
+            "Business on Date": "25-02-2025",
+            "Hearing Date": "29-03-2025",
+            "Purpose of Hearing": "URGENT HEARING"
+        },
+        {
+            "Judge": "ADDL.DISTRICT &amp; SESSIONS JUDGE",
+            "Business on Date": "29-03-2025",
+            "Hearing Date": "19-04-2025",
+            "Purpose of Hearing": "URGENT HEARING"
+        },
+        {
+            "Judge": "ADDL.DISTRICT &amp; SESSIONS JUDGE",
+            "Business on Date": "19-04-2025",
+            "Hearing Date": "03-05-2025",
+            "Purpose of Hearing": "URGENT HEARING"
+        }
+    ]
+}
